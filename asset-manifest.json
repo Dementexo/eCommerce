@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eCommerce/static/css/main.b2c4516a.css",
+    "main.js": "/eCommerce/static/js/main.33fa4ab9.js",
+    "static/media/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.jpg": "/eCommerce/static/media/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.4e3875f7ee9d8bffce4e.jpg",
+    "static/media/female-friends-out-shopping-together.jpg": "/eCommerce/static/media/female-friends-out-shopping-together.9704255ff98633bde3ae.jpg",
+    "static/media/beautiful-interior-shot-modern-house-with-white-relaxing-walls-furniture-technology.jpg": "/eCommerce/static/media/beautiful-interior-shot-modern-house-with-white-relaxing-walls-furniture-technology.c048de50d5c0111c000b.jpg",
+    "static/media/kindpng_790382.png": "/eCommerce/static/media/kindpng_790382.181e1bd753b0299cc22c.png",
+    "static/media/kindpng_6236350.png": "/eCommerce/static/media/kindpng_6236350.73654a5d0c0ea6e98562.png",
+    "index.html": "/eCommerce/index.html",
+    "main.b2c4516a.css.map": "/eCommerce/static/css/main.b2c4516a.css.map",
+    "main.33fa4ab9.js.map": "/eCommerce/static/js/main.33fa4ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c4516a.css",
+    "static/js/main.33fa4ab9.js"
+  ]
+}
