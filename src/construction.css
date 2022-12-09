@@ -1,0 +1,14 @@
+.constrPage{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    background-color:rgb(171, 171, 171, 0.5);
+    height:88vh;
+    width:98vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+.constrImg{
+    height:30vh;
+}
