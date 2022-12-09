@@ -15,14 +15,12 @@ export const ImageSlider = () => {
 
     return (
         <div className={`siteIntroduction ${currentIMG == 0 && "sii1"} ${currentIMG == 1 && "sii2"} ${currentIMG == 2 && "sii3"}`}>
-            <div className="buttonHolder">
-                <button className="scrollButton" onClick={() => setCIMG(currentIMG - 1)}><img src={require("./Images/icons8-double-left-30.png")}></img></button>
-                <button className="scrollButton" onClick={() => setCIMG(currentIMG + 1)}><img src={require("./Images/icons8-double-right-30.png")}></img></button>
-            </div>
+            <button className="scrollButton" onClick={() => setCIMG(currentIMG - 1)}><img src={require("./Images/icons8-double-left-30.png")}></img></button>
             <div className="textHolder">
                 <span className="siText1 si">The world of Real Estate can be quite chaotic, filled with many uncertainties and obstacles.</span>
                 <span className="siText2">Despite this, there is one truth: networking and communication are your best friends.</span>
             </div>
+            <button className="scrollButton" onClick={() => setCIMG(currentIMG + 1)}><img src={require("./Images/icons8-double-right-30.png")}></img></button>
         </div>
     )
 }
@@ -33,7 +31,6 @@ export const SearchPop = ({props}) => {
     let status = props;
 
     useEffect(() => {
-        console.log("reran!");
         if(status == "inactive"){
             setET("inactive");
         }

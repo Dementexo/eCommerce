@@ -83,25 +83,25 @@ nav{
 }
 .siteIntroduction{
   display:flex;
-  flex-direction:column;
   justify-content:center;
   align-items:center;
   width:100%;
   height:100%;
+  min-height:500px;
 }
 .textHolder{
   display:flex;
   justify-content:center;
   align-items: center;
+  flex-direction: column;
   width:80%;
-  margin-top:auto;
 }
 .siText1{
   display:flex;
-  position:absolute;
   text-align:center;
-  margin-bottom:50%;
-  width:60%;
+  margin-top:auto;
+  margin-bottom:1%;
+  width:80%;
   height:10%;
   justify-content:center;
   align-items:center;
@@ -111,15 +111,13 @@ nav{
 }
 .siText2{
   display:flex;
-  position:absolute;
-  margin-bottom:35%;
   text-align:center;
   width:fit-content;
   justify-content:center;
   align-items:center;
   color:#303030;
   padding:0.5%;
-  font-size:1rem;
+  font-size:0.9rem;
   font-family:'Jura';
   background-color: #ededed;
   border-radius:24px;
@@ -172,18 +170,12 @@ nav{
     opacity:1;
   }
 }
-.buttonHolder{
-  display:flex;
-  justify-content:space-between;
-  width:95%;
-  margin-top:auto;
-}
 .scrollButton{
   display:flex;
   justify-content:center;
   align-items:center;
-  height:6vw;
-  width:6vw;
+  height:7.5vh;
+  width:7.5vh;
   border-radius:100%;
   border-color:white;
   border-style:solid;
