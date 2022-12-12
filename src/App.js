@@ -8,7 +8,7 @@ import { LcPage } from "./routes/livechat";
 
 
 /* Site established on November 30th, 2022 */
-/* Current Version: 0.1.0 */
+/* Current Version: 1.2.0 */
 
 function App() {
   const [searchTrig, stUpdate] = useState("inactive");
@@ -47,7 +47,7 @@ function App() {
       </nav>
     </body>
     <Routes>
-      <Route path="/" element={<main className="mainBody"><ImageSlider/></main>}/>
+      <Route path="/" element={<ImageSlider/>}/>
       <Route path="/announcements" element={<AnnouncePage/>}/>
       <Route path="/dh" element={<HandoutsPage/>}/>
       <Route path="/lc" element={<LcPage/>}/>
