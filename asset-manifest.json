@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/eCommerce/static/css/main.c6064b0c.css",
-    "main.js": "/eCommerce/static/js/main.6daa105d.js",
+    "main.css": "/eCommerce/static/css/main.84c62e31.css",
+    "main.js": "/eCommerce/static/js/main.fe871cec.js",
     "static/media/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.jpg": "/eCommerce/static/media/excited-audience-watching-confetti-fireworks-having-fun-music-festival-night-copy-space.4e3875f7ee9d8bffce4e.jpg",
     "static/media/female-friends-out-shopping-together.jpg": "/eCommerce/static/media/female-friends-out-shopping-together.9704255ff98633bde3ae.jpg",
     "static/media/beautiful-interior-shot-modern-house-with-white-relaxing-walls-furniture-technology.jpg": "/eCommerce/static/media/beautiful-interior-shot-modern-house-with-white-relaxing-walls-furniture-technology.c048de50d5c0111c000b.jpg",
+    "static/media/brick-wall-painted-white.jpg": "/eCommerce/static/media/brick-wall-painted-white.49dbc8942c18e33cdc48.jpg",
     "static/media/kindpng_790382.png": "/eCommerce/static/media/kindpng_790382.181e1bd753b0299cc22c.png",
+    "static/media/book.png": "/eCommerce/static/media/book.baee980c93e025c5dd6d.png",
+    "static/media/handshake.png": "/eCommerce/static/media/handshake.15b095a5e24127539eda.png",
+    "static/media/goal.png": "/eCommerce/static/media/goal.60eb2c914f63e994fde5.png",
     "static/media/kindpng_6236350.png": "/eCommerce/static/media/kindpng_6236350.73654a5d0c0ea6e98562.png",
     "index.html": "/eCommerce/index.html",
-    "main.c6064b0c.css.map": "/eCommerce/static/css/main.c6064b0c.css.map",
-    "main.6daa105d.js.map": "/eCommerce/static/js/main.6daa105d.js.map"
+    "main.84c62e31.css.map": "/eCommerce/static/css/main.84c62e31.css.map",
+    "main.fe871cec.js.map": "/eCommerce/static/js/main.fe871cec.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6064b0c.css",
-    "static/js/main.6daa105d.js"
+    "static/css/main.84c62e31.css",
+    "static/js/main.fe871cec.js"
   ]
 }
